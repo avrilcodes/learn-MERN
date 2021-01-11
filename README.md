@@ -14,13 +14,13 @@ In this comprehensive learning path I learned how to build data-driven applicati
 
 ### NPM - the Node Package Manager
 In this module I learned :
-+ Installing Node and npm
-+ Adding and removing node packages
-+ Updating a package
-+ Working with an NPM cache
-+ Running an NPM audit
++ Installed Node and npm
++ Added and removed node packages
++ Updated a package
++ Worked with an NPM cache
++ Ran an NPM audit
 + Introduction to NPX
-+ Scripting in package.json
++ Scripted in package.json
 + Semantic versioning
 + Publishing packages
 + Keywords: npm init, npm install, npm uninstall, --save-dev, -g, npm outdated, npm update, npm cache, npm -v 
